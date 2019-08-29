@@ -1,0 +1,1 @@
+Custom Tic-Tac-Toe environment that has an agent learn to play against an opponent that makes random, equal probability moves via Reinforcement Learning.  Utilizes Gym OpenAI.
